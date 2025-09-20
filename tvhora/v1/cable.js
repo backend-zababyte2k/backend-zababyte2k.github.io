@@ -36,6 +36,17 @@ function getchinfo() {
         ["Cartoon Network", "24/7 cartoons"],
         ["Toonami", "24/7 Cartoons and Anime"],
         ["TNT", "Movies all the time."],
+        ["Fox Sports", "24/7 Sports coverage"],
+        ["RTVS 1", "Všeobecný obsah"],
+        ["RTVS 2", "Všeobecný a vzdelávací obsah"],
+        ["RTVS 24", "Správy 24 hodín denne, 7 dní v týždni"],
+        ["RTVS SPORT", "Šport 24 hodín denne, 7 dní v týždni"],
+        ["TV JOJ", "Televízne programy a filmy"],
+        ["JOJ Plus", "Americké televízne relácie"],
+        ["JOJ WAU", "Prémiový televízny kanál"],
+        ["Marzika", "Rodinný obsah"],
+        ["Doma", "Televízne relácie pre ženy"],
+        ["Dajto", "Televízne relácie pre mužov"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;
