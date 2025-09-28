@@ -15,7 +15,7 @@
         ["index3.html#https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-zababyte2k.github.io/tvhora/v1/ch12.png"],
         ["index3.html#https://dm1-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/c5808ed78b6ff7b8fd3b5173184177af/band.m3u8", "https://backend-zababyte2k.github.io/tvhora/v1/ch13.png"],
         ["index3.html#https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w140885972.m3u8", "https://backend-zababyte2k.github.io/tvhora/v1/ch14.png"],
-        ["index3.html#https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br", "https://backend-zababyte2k.github.io/tvhora/v1/ch15.png"],
+        ["index3.html#https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8", "https://backend-zababyte2k.github.io/tvhora/v1/ch15.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
