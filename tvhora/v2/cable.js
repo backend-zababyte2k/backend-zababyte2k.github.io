@@ -14,7 +14,7 @@ function getchinfo() {
     let chinfodb = [
         ["Channel Name", "Channel Description"],
         ["Bob Ross", "24/7 Joy of Painting"],
-        ["News Nation", "Non bias news 24/7"],
+        ["The Hill", "Non bias news 24/7"],
         ["Weather Scan", "24/7 Weather Service"],
         ["TNT", "Movies all the time."],
         ["Channel Name", "Channel Description"],
